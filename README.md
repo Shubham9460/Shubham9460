@@ -1,4 +1,3 @@
-## Hi there 👋
 👋 Hi, I'm Shubham Parmar
 
 🎯 I’m a passionate Web Developer and currently learning Python and DSA.  
