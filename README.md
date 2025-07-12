@@ -26,7 +26,7 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn:linkedin.com/in/shubham-parmar-9b85702b4/
+- 💼 LinkedIn:linkedin.com/in/shubham-parmar-dev
 - 📧 Email: parmarshubham375@gmail.com  
   
 
