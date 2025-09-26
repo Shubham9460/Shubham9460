@@ -10,8 +10,8 @@
 
 ## 🛠️ Tech Stack
 - Frontend: HTML, CSS, JavaScript, React.js  
-- Backend: Node.js, Express.js (basic)  
-- Database: MongoDB (learning phase)  
+- Backend: Django  
+- Database: MySql 
 - Programming: Python, C, C++  
 - Tools: Git, GitHub, VS Code  
 
